@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username">Nombre</string>
+    <string name="password">Contrasena</string>
+    <string name="button_login_text">Autentificar</string>
+    <string name="forgot_password">Olvidaste tu Contrasena?</string>
+    <string name="error_field_required">Campo Requerido</string>
+    <string name="login_successfuly">Autentificacion Exitosa!</string>
+    <string name="error_bad_credentials">Credenciales Erroneas</string>
+</resources>
